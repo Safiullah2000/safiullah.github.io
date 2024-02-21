@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "deep link test",
+    "package_name": "com.example.deeplink",
+    "sha256_cert_fingerprints":
+    ["19:22:99:79:DB:97:FE:5A:BF:6F:D2:3A:8C:A8:11:F3:7A:97:6C:CC:EA:87:F1:EB:BB:F4:5D:96:2E:34:FF:A2"]
+  }
+}]
